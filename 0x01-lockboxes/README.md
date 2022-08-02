@@ -16,4 +16,4 @@ A ```README.md``` file at the root of the folder of the project is mandatory
 ## :mega: Acknowledgments
 
 * alx School (providing guidance)
-[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17).
