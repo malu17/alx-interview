@@ -4,8 +4,10 @@
 
 ## Projects
 :open_file_folder:
-* [x] 0x00-pascal_triangle
+* [x] 0x00. pascal_triangle
 * [x] 0x01. Lockboxes
+* [x] 0x02. Minimum Operations
+
 
 ## Requirements
 A ```README.md``` file at the root of the folder of the project is mandatory
