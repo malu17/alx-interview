@@ -1,4 +1,4 @@
-# 0x00. Lockboxes
+# 0x01. Lockboxes
 :open_file_folder: Specializations - Interview Preparation ― Algorithms  
 :bust_in_silhouette: by Carrie Ybay, software engineer at Holberton School  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**
