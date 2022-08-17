@@ -1,4 +1,4 @@
-# 0x03. Minimum Operations
+# 0x02. Minimum Operations
 :open_file_folder: Specializations - Interview Preparation ― Algorithms  
 :bust_in_silhouette: by elias fiseha, Software Engineer at alx 
 :copyright: **[alx School](https://www.alx.com/)**
