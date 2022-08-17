@@ -1,4 +1,4 @@
-# 0x06. Log Parsing
+# 0x03. Log Parsing
 :open_file_folder: Specializations - Interview Preparation ― Algorithms  
 :bust_in_silhouette: by elias fiseha, Software Engineer 
 
