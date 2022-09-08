@@ -33,7 +33,7 @@ $ export NODE_PATH=/usr/lib/node_modules
 * [x] 0. Star Wars Characters
 
 # Software engineer
-## :enter_belu: 
+  ## :enter_belu: 
 * **elias fiseha** - [malu17](https://github.com/malu17)
 
 ## :mega: Acknowledgments
