@@ -1,4 +1,4 @@
-# 0x16. Rotate 2D Matrix
+# 0x7. Rotate 2D Matrix
 :open_file_folder: Specializations - Interview Preparation ― Algorithms  
 :bust_in_silhouette: by Jesse Hedden, Software Engineer at Holberton School  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**  
@@ -10,5 +10,11 @@
 ## Tasks
 * [x] 0. Rotate 2D Matrix
 
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+# Software engineer
+## :enter_belu: 
+* **elias fiseha** - [malu17](https://github.com/malu17)
+
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17).
