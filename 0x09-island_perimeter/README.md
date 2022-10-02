@@ -1,7 +1,8 @@
 # 0x1C. Island Perimeter
-:open_file_folder: Specializations - Interview Preparation ― Algorithms  
-:bust_in_silhouette: By Alexa Orrico, Software Engineer at Holberton School  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:open_file_folder: Specializations - Interview 
+:bust_in_silhouette: By elias fiseha, Software Engineer 
+:copyright: **[alx School](https://www.alx.com/)**
+
 :bookmark: pathfinding | python
 
 ## Requirements
@@ -11,4 +12,10 @@
 * [x] 0. Island Perimeter
 
 ## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+## :enter_belu: 
+* **elias fiseha** - [malu17](https://github.com/malu17)
+
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17).
